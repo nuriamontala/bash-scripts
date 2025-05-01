@@ -76,12 +76,12 @@ This repository contains a collection of basic Bash scripts designed to help you
 1. **Clone the Repository**:
    To get started, clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/bash-learning-scripts.git
+   git clone https://github.com/nuriamontala/bash-scripts.git
    ```
 2. **Navigate to the Repository Folder**:
    Change to the directory where the repository was cloned:
    ```bash
-   cd bash-learning-scripts
+   cd bash-scripts
    ```
 3. **Make the Scripts Executable**:
    Ensure all the scripts in the repository are executable by running the following command:
